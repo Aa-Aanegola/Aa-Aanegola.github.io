@@ -2,96 +2,99 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Aakash Aanegola
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22nd November 2001
     - name: Languages
-      value: English, German
+      value: English, Kannada
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.Tech with Honors in Computer Science and Engineering
+      institution: The International Institute of Information Technology, Hyderabad 
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 9.78"
+    - title: High School Diploma 
+      institution: National Public School, HSR, Bengaluru
+      year: 2019
+      description: 
+        - "Grade: 95.6%"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Analyst
+      institution: Goldman Sachs, SLC
+      year: 2023
+      description: 
+        - Working for the Marquee Prime Brokerage team on upcoming applications. 
+    - title: Research Assistant
+      institution: Robotics Research Center, IIIT-H
+      year: 2021-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Worked on motion forecasting in the presence of uncertainty for self driving vehicles using differentiable optimization. 
+        - Constructed methods for object detection in adverse weather conditions, improving over prior state of the art methods. 
+        - "Current research areas include: Computer Vision, Perception & Planning, Autonomous Driving, Generative Modelling" 
+
+    - title: Research Assistant
+      institution: Precog, IIIT-H
+      year: 2021-Present
+      description: 
+        - Ideated and implemented a novel in-processing technique to augment the fairness of graph neural networks and optimized the time overhead of fairness. 
+        - Currently exploring ideas revolving around fairness for unsupervised graph representation learning. 
+        - "Current research areas include: Graph Machine Learning, Fairness, Unsupervised Learning"
+    
+    - title: Summer Analyst
+      institution: Goldman Sachs, Bengaluru
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Contributed to Marquee - Prime Services, a product used by clients worldwide. Introduced changes that allow the product to be streamlined and the user experience to be fine-tuned. Responsibilities included development, testing and providing aggregate analytics.
+    
+    - title: Software Developer
+      institution: DreamVu Inc.
+      year: 2020
       description:
+        - Developed a software license management tool that included a license generation toolkit and a standalone license validation module using C++ and Qt. Also created a web based license tracker for data collection and analysis using the MERN stack.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching Assistant 
+      institution: IIIT-H
+      year: 2021
+      description: 
+        - Worked as a TA for the Automata Theory course. Responsibilities included setting up quizzes, assignments and projects as well as holding supplementary tutorial sessions. Introduced novel weekly seminars into emerging topics in the fields of automata and computational were also held.
+        - Also worked as a TA for the Computer Systems and Organization course, which includes the basics of processor design, assembly programming and memory design. Responsibilities included setting assignments, conducting tutorials and grading quiz and assignment submissions.
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Westin Scholar Award
+        - Dean's List (Academic Excellence)
+    - year: 2021
+      items:
+        - Dean's List (Academic Excellence)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Graph Machine Learning 
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Unsupervised representation learning
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
+        - Application in autonomous driving
+        - Reliability & Trust
+    - title: Compilers 
+      items:
+        - Deep learning compilers
+        - Loop optimization
 
-- title: Other Interests
+- title: Miscellaneous
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Music Club Lead</b> - Head the college music club, organized events and worked with sound technicians to ensure optimal performing environment for musicians. 
+    - <b>Gaming Club Lead</b> - Coordinated Pokemon Showdown events for the college gaming club to bring visibility to conventionally not-so-popular games

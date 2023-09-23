@@ -2,10 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A curated, not very comprehensive list of projects I thought I'd showcase. Most projects I work on start from a random thought or something I read and are learning experiences rather than development projects. 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
 horizontal: false
 ---
 

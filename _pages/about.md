@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Salt Lake City</p>
+    <p>UT</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Hello there!
+I'm currently working at Goldman Sachs, Salt Lake City as an Analyst for the Marquee Prime Brokerage team. I worked here for a short stint in the summer of my third year of college and I've been full-time since July 2023. My research interests are deep rooted in Artificial Intelligence, with a focus on fair, robust and trustworthy learning. Essentially, I care about the small error margins that most people usually neglect. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work and school, I've been playing the violin for over 13 years (check out La Campanella by Tchaikovsky, probably my favorite classical piece of all time), enjoy a good game of basketball, write short stories and poetry (albeit occasionally), and recently got into collecting Star Wars Lego sets but 75192 (the UCS millenium falcon) still hasn't flown into my room :/
