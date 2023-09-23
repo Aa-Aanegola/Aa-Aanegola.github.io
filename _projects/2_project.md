@@ -2,7 +2,7 @@
 layout: page
 title: Loan Piranhas
 description: A distributed P2P loan system on the Ethereum blockchain
-img: assets/img/piranha.jpeg
+img: assets/img/projects/piranha.jpeg
 importance: 2
 category: misc
 ---

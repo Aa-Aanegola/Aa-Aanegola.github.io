@@ -2,7 +2,7 @@
 layout: page
 title: Wiki Search Engine
 description: A search engine to retrieve relevant wikipedia results
-img: assets/img/engine.png
+img: assets/img/projects/engine.png
 importance: 3
 category: misc
 ---

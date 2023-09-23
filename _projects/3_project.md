@@ -2,7 +2,7 @@
 layout: page
 title: Slamma - Automated Negotiation
 description: An automated navigation agent for the Genius platform
-img: assets/img/negotiation.jpeg
+img: assets/img/projects/negotiation.jpeg
 importance: 3
 category: misc
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Legendary Brocolli
 description: Low-poly tree generation for Blender
-img: assets/img/lp-palm.png
+img: assets/img/projects/lp-palm.png
 importance: 1
 category: misc
 ---

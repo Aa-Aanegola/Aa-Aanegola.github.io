@@ -2,7 +2,7 @@
 layout: page
 title: L-Systems
 description: F+F+F+F = magic
-img: assets/img/lsystem.png
+img: assets/img/projects/lsystem.png
 importance: 4
 category: misc
 ---

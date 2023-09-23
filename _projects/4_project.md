@@ -2,7 +2,7 @@
 layout: page
 title: iFUB
 description: Fast graph diameter computation
-img: assets/img/graph.png
+img: assets/img/projects/graph.png
 importance: 3
 category: misc
 ---
